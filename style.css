@@ -461,6 +461,10 @@ footer {
     .content {
         display: none;
     }
+    .text {
+        width: 100%;
+        margin: 2rem;
+    }
     /*flooter*/ 
     .flooterdescipt {
         position: relative;
